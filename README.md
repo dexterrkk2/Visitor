@@ -1,5 +1,5 @@
 # Visitor
 https://dexterrkk2.github.io/VisitorWebgl/
-Strategy
+#Strategy
 https://github.com/dexterrkk2/Strategy
 
